@@ -9,10 +9,6 @@
    font-family: 'Open Sans', sans-serif;
 }
 
-html, body {
-   background-color: #E5E5E5;
-}
-
 a, a:hover {
    text-decoration: none;
    color: unset;
